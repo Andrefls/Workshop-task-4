@@ -1,6 +1,6 @@
 Link to website https://andrefls.github.io/Workshop-task-4/
 
-# Workshop-task-4
+# A photoshop function?
 
 ## Synopsis
 
@@ -15,6 +15,8 @@ Additionally, my intention with my art has always been to capture emotions and m
 
 - As usual, I began by following the examples from our lecture.
 
+- <img width="1699" alt="Screenshot 2025-01-18 at 9 55 06 pm" src="https://github.com/user-attachments/assets/ed2626fa-b216-4011-b7bf-4e2c070b6758" />
+
 - This time, the goal was to capture the same code and tweak it to express what I wanted for my task.
 
 - I first watched our lecture video at
@@ -22,6 +24,8 @@ Additionally, my intention with my art has always been to capture emotions and m
 - https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967.
 
 - I spent a significant amount of time trying to get the layers to work, but they seemed to disappear every time I added another one.
+
+- <img width="1721" alt="Screenshot 2025-01-19 at 12 32 12 pm" src="https://github.com/user-attachments/assets/3d6ea22a-ccad-4ed9-9ccb-326f8526b37c" />
 
 - To be honest, after several hours, I became frustrated because the layers kept disappearing. 
 
@@ -31,7 +35,9 @@ Additionally, my intention with my art has always been to capture emotions and m
 
 - The solution was quite strange: I had to set the complete transparency value for one image, while the others needed to have different values.
 
-- I still don't understand why, but it worked. I think it might be related to the files themselves. 
+- I still don't understand why, but it worked. I think it might be related to the files themselves.
+
+- <img width="1373" alt="Screenshot 2025-01-19 at 3 54 48 pm" src="https://github.com/user-attachments/assets/9978d663-922c-4bef-ae76-2cab3c9ee21b" />
 
 - Once I resolved the layer issues, I continued following the lecture video example. 
 
@@ -41,7 +47,11 @@ Additionally, my intention with my art has always been to capture emotions and m
 
 - The challenge began when I realized that changing the transparency wasn't as easy as I had hoped, as my images had trouble with that. 
 
-- After a long day of trying lecture samples and conducting trials, I finally got it to work. The last thing I wanted to add was an important question: How do you feel? I followed the video sample and implemented that as well.
+- After a long day of trying lecture samples and conducting trials, I finally got it to work.
+
+- <img width="1377" alt="Screenshot 2025-01-19 at 5 02 55 pm" src="https://github.com/user-attachments/assets/d3aa3579-5af5-4cc6-8610-03ce0aa52cb3" />
+
+- The last thing I wanted to add was an important question: How do you feel? I followed the video sample and implemented that as well.
 
 
 ## Future development
