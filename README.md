@@ -53,6 +53,7 @@ Additionally, my intention with my art has always been to capture emotions and m
 
 - The last thing I wanted to add was an important question: How do you feel? I followed the video sample and implemented that as well.
 
+- <img width="1106" alt="Screenshot 2025-01-19 at 7 16 00 pm" src="https://github.com/user-attachments/assets/530a39e4-509c-43a6-bf0d-cacdb1934a83" />
 
 ## Future development
 
